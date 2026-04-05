@@ -8,7 +8,7 @@ sources:
    # repos linked in IsaacLab
     - repo: git@github.com:PanavMhatre/hcrl_isaaclab.git
       name: IsaacLab/source/hcrl_isaaclab
-      rev: umrl-fri
+      rev: umrl
       type: git
     - repo: git@github.com:Creampelt/hcrl_robots.git
       name: IsaacLab/source/hcrl_isaaclab/resources/hcrl_robots
@@ -16,7 +16,7 @@ sources:
       type: git
     - repo: git@github.com:PanavMhatre/robot_rl.git
       name: IsaacLab/source/robot_rl
-      rev: umrl-fri
+      rev: umrl
       type: git
 default_group: ''
 groups:
