@@ -18,5 +18,9 @@ sources:
       name: IsaacLab/source/robot_rl
       rev: main
       type: git
+    - repo: git@github.com:Creampelt/hcrl_crab_robot.git
+      name: IsaacLab/source/hcrl_isaaclab/resources/ssti_robots
+      rev: feat/16dof-crab
+      type: git
 default_group: ''
 groups:
